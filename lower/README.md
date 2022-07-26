@@ -26,6 +26,6 @@ A two line OpenSCAD file was used to import the .dxf outline and extrude it to
 the correct thickness.  Then the design was exported as a .stl model for
 printing.
 
-[dimensioned drawing](lower-tool.png)
+![dimensioned drawing](lower-tool.png)
 
 Drew Arnett, n7da
