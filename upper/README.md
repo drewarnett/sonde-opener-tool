@@ -2,7 +2,7 @@
 
 A pair of tools for removing the upper clip from a Vaisala RS41-SGP radiosonde.
 
-* TODO:  add stage 1 tool here
+* [upper-stage-1-tool.pdf](upper-stage-1-tool.pdf)
 * [upper-stage-2-tool.pdf](upper-stage-2-tool.pdf)
 
 ## Instructions for use
@@ -20,10 +20,12 @@ A pair of tools for removing the upper clip from a Vaisala RS41-SGP radiosonde.
 
 ## Instructions for printing
 
-I printed on a Prusa with PLA filament using a 0.2 mm layer height, 3 layer
-(default 2) outer shell, and solid fill.  The tool isn't too fussy, so a
-variety of printing options will likely work fine.  The default 2 layer outer
-shell I'm sure would be fine as well.
+I printed on a Prusa with PLA filament using a 0.2 mm layer height and solid
+fill.  I used the default 2 layer outer shell for the stage 1 tool and a 3
+layer outer shell for the stage 2 tool.  The tool isn't too fussy, so a variety
+of printing options will likely work fine.  2 layer outer shell should be fine
+for both, but the stage 1 tool has more stress and might benefit more from more
+outer shell.
 
 ## Design notes
 
