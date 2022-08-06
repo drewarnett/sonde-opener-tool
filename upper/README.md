@@ -27,6 +27,9 @@ of printing options will likely work fine.  2 layer outer shell should be fine
 for both, but the stage 1 tool has more stress and might benefit more from more
 outer shell.
 
+An optional thumbsaver can be printed for the stage 1 tool.  Insert the end of
+the tool opposite the prongs into the slot in the thumbsaver.
+
 ## Design notes
 
 Measurements were made from a sample RS41-SGP radiosonde.
